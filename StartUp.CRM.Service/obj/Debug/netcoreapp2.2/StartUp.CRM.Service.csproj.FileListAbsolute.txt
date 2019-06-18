@@ -1,0 +1,16 @@
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Service.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Service.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Service.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.csprojAssemblyReference.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.Repository.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\obj\Debug\netcoreapp2.2\StartUp.CRM.Service.csproj.CopyComplete
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Service\bin\Debug\netcoreapp2.2\StartUp.CRM.UnitOfWork.pdb

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StartUp.CRM.Model\StartUp.CRM.Model.csproj" />
+    <ProjectReference Include="..\StartUp.CRM.Repository\StartUp.CRM.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

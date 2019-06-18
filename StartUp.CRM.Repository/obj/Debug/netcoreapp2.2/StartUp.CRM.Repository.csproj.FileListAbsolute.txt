@@ -1,0 +1,14 @@
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.Repository.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.Repository.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.UnitOfWork.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.UnitOfWork.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.csprojAssemblyReference.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.csproj.CopyComplete
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Repository\obj\Debug\netcoreapp2.2\StartUp.CRM.Repository.pdb

@@ -1,0 +1,10 @@
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.deps.json
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\obj\Debug\netcoreapp2.2\StartUp.CRM.Model.csproj.CoreCompileInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\obj\Debug\netcoreapp2.2\StartUp.CRM.Model.AssemblyInfoInputs.cache
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\obj\Debug\netcoreapp2.2\StartUp.CRM.Model.AssemblyInfo.cs
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.runtimeconfig.json
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.runtimeconfig.dev.json
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\bin\Debug\netcoreapp2.2\StartUp.CRM.Model.pdb
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\obj\Debug\netcoreapp2.2\StartUp.CRM.Model.dll
+F:\iMe\Project\StartUp\Project\StartUp.CRM\StartUp.CRM\StartUp.CRM.Model\obj\Debug\netcoreapp2.2\StartUp.CRM.Model.pdb
